@@ -6,7 +6,7 @@ local Translations = {
         recived_license = 'Du har fått ditt %{value} för $50'
     },
     info = {
-        bilp_text = 'Stadstjänster',
+        bilp_text = 'Kommun Huset',
         city_services_menu = '~g~E~w~ - Stadstjänst Menu',
         id_card = 'ID Kort',
         driver_license = 'Körkort',
